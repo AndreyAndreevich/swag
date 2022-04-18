@@ -34,4 +34,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
 
-replace github.com/swaggo/swag v1.8.1 => github.com/AndreyAndreevich/swag v1.8.2-0.20220418083634-642a0edc439b
+replace github.com/swaggo/swag v1.8.1 => github.com/AndreyAndreevich/swag default-required-with-replace
