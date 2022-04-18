@@ -1,5 +1,3 @@
-github.com/AndreyAndreevich/swag v1.8.2-0.20220418083634-642a0edc439b h1:GB12zzLCb2GWaTTCd0H/z8Tl5sKwv+BVL61meR6YRFE=
-github.com/AndreyAndreevich/swag v1.8.2-0.20220418083634-642a0edc439b/go.mod h1:ugemnJsPZm/kRwFUnzBlbHRd0JY9zE1M4F+uy2pAaPQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/KyleBanks/depth v1.2.1 h1:5h8fQADFrWtarTdtDudMmGsC7GPbOAu6RVB3ffsVFHc=
 github.com/KyleBanks/depth v1.2.1/go.mod h1:jzSb9d0L43HxTQfT+oSA1EEp2q+ne2uh6XgeJcm8brE=
